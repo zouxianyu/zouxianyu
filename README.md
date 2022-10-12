@@ -27,6 +27,10 @@ kanxue: [https://bbs.pediy.com/user-home-749612.htm](https://bbs.pediy.com/user-
 
 UnknownCheats: [https://www.unknowncheats.me/forum/members/1934883.html](https://www.unknowncheats.me/forum/members/1934883.html)
 
+# Contact
+
+Telegram: `(at) hlw2014`
+
 # Projects
 
 ## Game Security
