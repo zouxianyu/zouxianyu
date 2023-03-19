@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <img src = "https://github-readme-stats-mh7q.vercel.app/api?username=zouxianyu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src = "https://github-readme-stats-mh7q.vercel.app/api/top-langs/?username=zouxianyu&hide_border=true&langs_count=3"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=zouxianyu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zouxianyu&hide_border=true&langs_count=3"/>
 </p>
 
 
